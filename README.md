@@ -1,5 +1,10 @@
 # aprende-python-guerrero-francisco
 
+## Estructura del proyecto
+proyecto-examen/
+    |-- aprende-python-guerrero-francisco/
+    |__ aprende-python-fork/
+
 ## Auditoría
 - IES Ramon Arcas Meca
 - Avenida Juan Carlos I, nº 72, 30800 Lorca (Murcia), España.
