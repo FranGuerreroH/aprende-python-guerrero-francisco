@@ -19,4 +19,4 @@ Este repositorio ha sido creado para la realización de una web estática con re
 4. Git pages
 
 ## Publicación
-[Enlace a la página del contenido](https://github.com/FranGuerreroH/)
+[Enlace a la página del contenido]([https://github.com/FranGuerreroH/](https://franguerreroh.github.io/aprende-python-guerrero-francisco/))
